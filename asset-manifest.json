@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.188abf6b.css",
-    "main.js": "/static/js/main.c2b99e42.js",
-    "static/js/453.278b6107.chunk.js": "/static/js/453.278b6107.chunk.js",
-    "static/media/astronaut.png": "/static/media/astronaut.a832948793cba1e6ea8e.png",
-    "static/media/contact.png": "/static/media/contact.2a1e369e7da035c25cdd.png",
-    "static/media/togetherr.jpg": "/static/media/togetherr.2e21bc10af0bc79a5d21.jpg",
-    "static/media/booster.jpg": "/static/media/booster.ccb0572fc0e6d13f3318.jpg",
-    "static/media/travel1.jpg": "/static/media/travel1.2e8faf6f0d36c40b42a7.jpg",
-    "static/media/together.jpg": "/static/media/together.7115d6612814e7a66b6c.jpg",
-    "static/media/boost.jpg": "/static/media/boost.89dc769c3be941b8bb06.jpg",
-    "static/media/space.jpg": "/static/media/space.a238f5b4a81380c6c1b3.jpg",
-    "static/media/travel2.jpg": "/static/media/travel2.7fc60952b2b0f2166dc3.jpg",
-    "index.html": "/index.html",
-    "main.188abf6b.css.map": "/static/css/main.188abf6b.css.map",
-    "main.c2b99e42.js.map": "/static/js/main.c2b99e42.js.map",
-    "453.278b6107.chunk.js.map": "/static/js/453.278b6107.chunk.js.map"
+    "main.css": "/project4/static/css/main.fc0a5d68.css",
+    "main.js": "/project4/static/js/main.68bd35e4.js",
+    "static/js/453.278b6107.chunk.js": "/project4/static/js/453.278b6107.chunk.js",
+    "static/media/astronaut.png": "/project4/static/media/astronaut.a832948793cba1e6ea8e.png",
+    "static/media/contact.png": "/project4/static/media/contact.2a1e369e7da035c25cdd.png",
+    "static/media/togetherr.jpg": "/project4/static/media/togetherr.2e21bc10af0bc79a5d21.jpg",
+    "static/media/booster.jpg": "/project4/static/media/booster.ccb0572fc0e6d13f3318.jpg",
+    "static/media/travel1.jpg": "/project4/static/media/travel1.2e8faf6f0d36c40b42a7.jpg",
+    "static/media/together.jpg": "/project4/static/media/together.7115d6612814e7a66b6c.jpg",
+    "static/media/boost.jpg": "/project4/static/media/boost.89dc769c3be941b8bb06.jpg",
+    "static/media/space.jpg": "/project4/static/media/space.a238f5b4a81380c6c1b3.jpg",
+    "static/media/travel2.jpg": "/project4/static/media/travel2.7fc60952b2b0f2166dc3.jpg",
+    "index.html": "/project4/index.html",
+    "main.fc0a5d68.css.map": "/project4/static/css/main.fc0a5d68.css.map",
+    "main.68bd35e4.js.map": "/project4/static/js/main.68bd35e4.js.map",
+    "453.278b6107.chunk.js.map": "/project4/static/js/453.278b6107.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.188abf6b.css",
-    "static/js/main.c2b99e42.js"
+    "static/css/main.fc0a5d68.css",
+    "static/js/main.68bd35e4.js"
   ]
 }
