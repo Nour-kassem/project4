@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.188abf6b.css",
+    "main.js": "/static/js/main.c2b99e42.js",
+    "static/js/453.278b6107.chunk.js": "/static/js/453.278b6107.chunk.js",
+    "static/media/astronaut.png": "/static/media/astronaut.a832948793cba1e6ea8e.png",
+    "static/media/contact.png": "/static/media/contact.2a1e369e7da035c25cdd.png",
+    "static/media/togetherr.jpg": "/static/media/togetherr.2e21bc10af0bc79a5d21.jpg",
+    "static/media/booster.jpg": "/static/media/booster.ccb0572fc0e6d13f3318.jpg",
+    "static/media/travel1.jpg": "/static/media/travel1.2e8faf6f0d36c40b42a7.jpg",
+    "static/media/together.jpg": "/static/media/together.7115d6612814e7a66b6c.jpg",
+    "static/media/boost.jpg": "/static/media/boost.89dc769c3be941b8bb06.jpg",
+    "static/media/space.jpg": "/static/media/space.a238f5b4a81380c6c1b3.jpg",
+    "static/media/travel2.jpg": "/static/media/travel2.7fc60952b2b0f2166dc3.jpg",
+    "index.html": "/index.html",
+    "main.188abf6b.css.map": "/static/css/main.188abf6b.css.map",
+    "main.c2b99e42.js.map": "/static/js/main.c2b99e42.js.map",
+    "453.278b6107.chunk.js.map": "/static/js/453.278b6107.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.188abf6b.css",
+    "static/js/main.c2b99e42.js"
+  ]
+}
